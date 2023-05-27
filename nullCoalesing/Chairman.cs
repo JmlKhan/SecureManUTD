@@ -8,6 +8,6 @@ namespace nullCoalesing
 {
     internal class Chairman : ITeamSupport
     {
-        public string Title { get; set; } = "Chairman";
+        public string Title { get; set; }
     }
 }
